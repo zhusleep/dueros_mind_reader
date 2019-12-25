@@ -3,9 +3,9 @@
 # Authored by: Zhi Li (zealiemai@gmail.com)
 
 # 百度云后台获取
-AK = 'XXXXXXXXXXXXXXXX'
+AK = '75c72dd892294b7f9ebf356e6aa3c35e'
 # 百度云后台获取
-SK = 'XXXXXXXXXXXXX'
+SK = '46664fac91c74ae3b4651c01f2e94771'
 # CFC 函数名称
 FUNCTION_NAME = 'XXXXXXXXXXXXX'
 # 打包忽略文件
